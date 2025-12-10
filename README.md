@@ -1,4 +1,5 @@
-Hello! Before using this program, there are a few things you should know.
+Hello! My name is Marcell.
+Before using this program, there are a few things you should know.
 
 This program was developed to perform coral-reef recognition and coverage-area calculation using the DeepLabV3+ model with a ResNet-101 backbone.
 It also utilizes orthomosaic images to reconstruct the structure and area of the coral reef.
@@ -19,4 +20,5 @@ If you want to use this program, please follow the guidelines below:
 8. The coverage-area calculation results will be exported as a CSV file.
 
 Thank you for using this program. If you wish to further develop or improve it, your contributions are very welcome.
+
 
